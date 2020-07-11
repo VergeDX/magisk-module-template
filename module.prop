@@ -1,7 +1,7 @@
 # id 只能填 字母 数字 半角符号
-id=template
-name=模块模板
+id=eu_miui_fonts
+name=eu MIUI 中文字体补全
 version=v1
 versionCode=1
-author=Pinkdoge
-description=一个简短的描述
+author=Vanilla
+description=替换 eu MIUI 的字体为小米兰亭
